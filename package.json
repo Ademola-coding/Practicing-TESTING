@@ -1,0 +1,20 @@
+{
+  "name": "practicing-testing",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "sum.js",
+  "scripts": {
+    "test":"jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ademola-coding/Practicing-TESTING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ademola-coding/Practicing-TESTING/issues"
+  },
+  "homepage": "https://github.com/Ademola-coding/Practicing-TESTING#readme"
+}
